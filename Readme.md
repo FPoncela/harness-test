@@ -1,1 +1,1 @@
-** Ejemplo harness **
+# Ejemplo harness
